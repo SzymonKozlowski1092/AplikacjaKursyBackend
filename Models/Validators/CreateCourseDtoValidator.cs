@@ -1,6 +1,5 @@
 ﻿using DziekanatBackend.Database;
 using FluentValidation;
-using Microsoft.EntityFrameworkCore;
 
 namespace DziekanatBackend.Models.Validators
 {

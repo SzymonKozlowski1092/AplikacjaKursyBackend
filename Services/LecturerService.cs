@@ -4,7 +4,6 @@ using DziekanatBackend.Exceptions;
 using DziekanatBackend.Models;
 using DziekanatBackend.DbModels;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 
 namespace DziekanatBackend.Services
 {

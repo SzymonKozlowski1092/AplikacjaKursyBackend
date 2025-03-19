@@ -1,11 +1,7 @@
-﻿using AutoMapper;
-using DziekanatBackend.Database;
-using DziekanatBackend.DbModels;
+﻿using DziekanatBackend.DbModels;
 using DziekanatBackend.Models;
 using DziekanatBackend.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace DziekanatBackend.Controllers
 {

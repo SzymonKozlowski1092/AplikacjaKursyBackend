@@ -1,7 +1,5 @@
-﻿using DziekanatBackend.DbModels;
-using DziekanatBackend.Models;
+﻿using DziekanatBackend.Models;
 using DziekanatBackend.Services;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DziekanatBackend.Controllers

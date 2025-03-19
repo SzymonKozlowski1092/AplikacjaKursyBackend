@@ -1,5 +1,4 @@
-﻿
-using DziekanatBackend.Exceptions;
+﻿using DziekanatBackend.Exceptions;
 
 namespace DziekanatBackend.Middleware
 {

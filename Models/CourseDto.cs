@@ -1,7 +1,4 @@
-﻿using DziekanatBackend.DbModels;
-using System.ComponentModel.DataAnnotations;
-
-namespace DziekanatBackend.Models
+﻿namespace DziekanatBackend.Models
 {
     public class CourseDto
     {
